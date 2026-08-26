@@ -1,16 +1,27 @@
-# Notas de aula de 2026.1.FIXME - Python FIXME
+# Thread - Atividade 2 do 1o Bimestre de SO 2026.2
 
 ## Informações gerais
 
-- **Público alvo**: alunos da disciplina de **Introdução a lógica e programação** do curso de [Infoweb](https://diatinf.ifrn.edu.br/cursos/tecnico-em-informatica-para-internet/) na [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
+- **Público alvo**: alunos da disciplina de **sistemas operacionais** do curso de TADS na [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
 - **Objetivo**:
-  1. FIXME
+  1. Praticar programação com multiplas linhas de execução
+  2. Conhecer diversas linguagens de programação
 
 ---
-## Notas de aula [slides pdf](FIXME)
-1. FIXME
+## Tarefas
+1. Montar os grupos
+2. Fork desse repositório
+3. FIXME
 
 ---
+## Grupos (min. 2 e máx. 3)
+| Time | Linguagem | Repositório |
+| ---- | --------- | ----------- |
+| jadson<br>luiz<br>arkângelo | Typescript | FIXME |
+| maria clara<br>guilherme<br>josé vine | Java | FIXME |
+| arthur vinicius<br>arthur lima<br>caio lucas | C++ | FIXME |
+| | | FIXME |
+
 ## Exercícios [Lista de exercícios](/lista.md) FIXME
 1. FIXME
