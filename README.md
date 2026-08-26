@@ -21,7 +21,8 @@
 | jadson<br>luiz<br>arkângelo | Typescript | FIXME |
 | maria clara<br>guilherme<br>josé vine | Java | FIXME |
 | arthur vinicius<br>arthur lima<br>caio lucas | C++ | FIXME |
-| | | FIXME |
-
-## Exercícios [Lista de exercícios](/lista.md) FIXME
-1. FIXME
+| rio<br>wheverthon<br>joão victor | Go | FIXME |
+| pedro mesias<br>paulo cesar | C# | FIXME |
+| julia<br>lyonara<br>lidia | Rust | FIXME |
+| iago<br>ana<br>valentine | Kotlin | FIXME |
+| denju<br>andre<br>lucas gabryel | lua | FIXME |
