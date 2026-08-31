@@ -7,12 +7,12 @@
 - **Objetivo**:
   1. Praticar programação com multiplas linhas de execução
   2. Conhecer diversas linguagens de programação
-
+- **Data de apresentação**: 02/09/2026
 ---
 ## Tarefas
 1. Montar os grupos;
 2. Fork desse repositório (cada membro pode ter seu repositório _forked_ mas apenas terá um link aqui);
-3. Na linguagem escolhida, implementar código correspondente ao python deste respositório;
+3. Na linguagem escolhida, implementar código correspondente ao python deste respositório (use o docker para executar os códigos);
 4. Modificar o arquivo `relato.md` relatando a experiência da implementação.
 
 ---
