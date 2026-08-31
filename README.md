@@ -10,9 +10,10 @@
 
 ---
 ## Tarefas
-1. Montar os grupos
-2. Fork desse repositório
-3. FIXME
+1. Montar os grupos;
+2. Fork desse repositório (cada membro pode ter seu repositório _forked_ mas apenas terá um link aqui);
+3. Na linguagem escolhida, implementar código correspondente ao python deste respositório;
+4. Modificar o arquivo `relato.md` relatando a experiência da implementação.
 
 ---
 ## Grupos (min. 2 e máx. 3)
