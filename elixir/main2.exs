@@ -1,4 +1,4 @@
-defmodule Exemplo do
+defmodule Projeti do
   def saudar(nome, vezes) do
     for i <- 1..vezes do
       IO.puts("Olá, #{nome}! (mensagem #{i})")
@@ -6,9 +6,9 @@ defmodule Exemplo do
   end
 
   def main do
-    task = Task.async(Exemplo, :saudar, ["Maria", 3])
+    task = Task.async(Projeti, :saudar, ["Maria", 3])
     Task.await(task)
   end
 end
 
-Exemplo.main()
+Projeti.main()
