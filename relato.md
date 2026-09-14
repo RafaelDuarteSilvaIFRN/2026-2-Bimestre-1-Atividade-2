@@ -11,7 +11,7 @@ O grupo de trabalho foi formado por
 -> Hudson
 -> Daniel 
 
-## Implementando múltiplas linhas de execução em FIXME
+## Implementando múltiplas linhas de execução em ELIXIR
 
 ### Informações gerais sobre o Elixir
 
